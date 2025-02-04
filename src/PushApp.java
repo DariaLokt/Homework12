@@ -5,6 +5,6 @@ public class PushApp {
         System.out.println("prettyGirl.getPublicationYear() = " + prettyGirl.getPublicationYear());
         prettyGirl.setPublicationYear(1977);
         System.out.println("prettyGirl.getPublicationYear() = " + prettyGirl.getPublicationYear());
-        //Закоммитила в мастер, очень извиняюсь, тупанула :(
+        //Закоммитила в мастер-ветку, очень извиняюсь, тупанула :(
     }
 }
